@@ -3,9 +3,9 @@
 
 # TODO
 
-[ ] Hugging Face
-[ ] Release code
-[x] Release paper
+- [ ] Hugging Face
+- [ ] Release code
+- [x] Release paper
 
 
 # Introduction
