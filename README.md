@@ -3,7 +3,6 @@
 
 # TODO
 
-- [ ] Hugging Face
 - [ ] Release code
 - [x] Release paper
 
